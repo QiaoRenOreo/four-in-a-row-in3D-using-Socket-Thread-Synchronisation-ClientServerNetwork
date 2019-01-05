@@ -10,14 +10,18 @@ vertically, horizontally, or diagonally, before your opponent does so.
 ![example_red_win](https://user-images.githubusercontent.com/46351057/50723151-b712ee00-1114-11e9-9417-a2e4e56f2fb8.PNG)
 
 3) unlimited amount of games are allowed to run individually and simoustaneously !!!!!
+
 4) three options for player to choose: 
       1)human vs human, 
-      2)human vs ai, 
-      3)ai vs ai
+      2)human vs ArtificialIntelligence, 
+      3)ArtificialIntelligence vs ArtificialIntelligence
+      
 5) this program is able to provide hint to a player
 
 6) server is able to communicate with players (clients), using port number and server socket. By communication, the programme matches two players in pairs. The rest of the players are in a waiting list
+
 7)	After a game is over, asks both players whether or not they want to restart the game. The game will restart only when both players are willing to 
+
 8)	If any play wants to exit the game, clean the board, delete this player from the player list. Asks the other player whether he wants to exit or wait for another opponent to register in. 
 
 
