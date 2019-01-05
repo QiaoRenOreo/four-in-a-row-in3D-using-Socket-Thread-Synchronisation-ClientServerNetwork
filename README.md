@@ -40,8 +40,17 @@ vertically, horizontally, or diagonally, before your opponent does so.
 
 ## Result
 
-1) unlimited amount of games run individually and simoustaneously !!!!!
+1) unlimited amount of games run individually and simoustaneously 
+
 ![simoutaneous](https://user-images.githubusercontent.com/46351057/50723457-d90e6f80-1118-11e9-8ec1-d3bba5d9cbdb.png)
 
-2) user interface
+2) client server communication
+![communicate1](https://user-images.githubusercontent.com/46351057/50723546-525a9200-111a-11e9-82e2-25bf4d11a9c8.png)
+![communicate2](https://user-images.githubusercontent.com/46351057/50723547-525a9200-111a-11e9-960d-ddded243ca0f.png)
+![communicate4](https://user-images.githubusercontent.com/46351057/50723548-525a9200-111a-11e9-93e3-4427d828bd38.png)
+![communicate5](https://user-images.githubusercontent.com/46351057/50723549-52f32880-111a-11e9-8d01-76a9f8cfcc9b.png)
+![communicate6](https://user-images.githubusercontent.com/46351057/50723545-51c1fb80-111a-11e9-9567-2e3e3ff3c4d0.png)
+
+3) user interface
+
 ![gui](https://user-images.githubusercontent.com/46351057/50723456-d875d900-1118-11e9-85ab-dcc3d8251c9f.png)
