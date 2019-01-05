@@ -45,11 +45,13 @@ vertically, horizontally, or diagonally, before your opponent does so.
 ![simoutaneous](https://user-images.githubusercontent.com/46351057/50723457-d90e6f80-1118-11e9-8ec1-d3bba5d9cbdb.png)
 
 2) client server communication
-![communicate1](https://user-images.githubusercontent.com/46351057/50723571-8d5cc580-111a-11e9-9aa4-681b5e735d32.png)
-![communicate2](https://user-images.githubusercontent.com/46351057/50723547-525a9200-111a-11e9-960d-ddded243ca0f.png)
-![communicate4](https://user-images.githubusercontent.com/46351057/50723548-525a9200-111a-11e9-93e3-4427d828bd38.png)
-![communicate5](https://user-images.githubusercontent.com/46351057/50723549-52f32880-111a-11e9-8d01-76a9f8cfcc9b.png)
-![communicate6](https://user-images.githubusercontent.com/46351057/50723545-51c1fb80-111a-11e9-9567-2e3e3ff3c4d0.png)
+
+![communicate1](https://user-images.githubusercontent.com/46351057/50723610-1116b200-111b-11e9-9062-be5ef445bf81.png)
+![communicate2](https://user-images.githubusercontent.com/46351057/50723611-1116b200-111b-11e9-9b97-a006c523df44.png)
+![communicate3](https://user-images.githubusercontent.com/46351057/50723612-11af4880-111b-11e9-985a-2b555294b42f.png)
+![communicate4](https://user-images.githubusercontent.com/46351057/50723613-11af4880-111b-11e9-84c8-0fb0ff631097.png)
+![communicate5](https://user-images.githubusercontent.com/46351057/50723614-11af4880-111b-11e9-8820-027f5f96ccca.png)
+![communicate6](https://user-images.githubusercontent.com/46351057/50723609-107e1b80-111b-11e9-9912-30ef38ad253b.png)
 
 3) user interface
 
